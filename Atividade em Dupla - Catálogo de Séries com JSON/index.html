@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Series - JSON Externo</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Catálogo de Séries</h1>
+        <p>Consulta de dados carregados via JSON</p>
+    </header>
+
+    <main>
+        <section class="controles">
+            <input type="search" id="inputBusca" placeholder="Buscar por título ou ano">
+            <button id="btnBuscar">Buscar</button>
+            <button id="btnTodos">Todos</button>
+            <button id="btnFiccao"> Ficção</button>
+            <button id="btnSuspense"> Suspense</button>
+            <button id="btnComedia"> Comédia</button>
+            <button id="btnAcao"> Ação</button>
+            <button id="btnPolicia"> Policial</button>
+            <button id="btnDrama"> Drama</button>
+        </section>
+
+         <section class="status-area">
+            <p id="status"></p>
+        </section>
+
+         <section id="listaSeries" class="lista-series"></section>
+        
+
+    </main>
+
+    <footer>
+        <p> Interface Web II - ETEC Guarulhos </p>
+    </footer>
+
+    <script src="js/app.js"></script>
+</body>
+</html>

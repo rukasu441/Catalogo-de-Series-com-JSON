@@ -1,0 +1,58 @@
+[
+    {
+        "titulo": "Stranger Things",
+        "ano": 2016,
+        "genero": "Ficção",
+        "temporadas": 5,
+        "imagem": "img/stranger.jpg"
+    },
+        {
+        "titulo": "Wanda Vision",
+        "ano": 2022,
+        "genero": "Ficção",
+        "temporadas": 7,
+        "imagem": "img/wandavision.jpg"
+    },
+        {
+        "titulo": "Breaking Bad",
+        "ano": 2008,
+        "genero": "Drama",
+        "temporadas": 5,
+        "imagem": "img/breakingbad.jpg"
+    },
+        {
+        "titulo": "O Mentalista",
+        "ano": 2004,
+        "genero": "Policial",
+        "temporadas": 16,
+        "imagem": "img/mentalist.jpg"
+    },
+        {
+        "titulo": "Henry Danger",
+        "ano": 2015,
+        "genero": "Comédia",
+        "temporadas": 6,
+        "imagem": "img/henrydanger.jpg"
+    },
+        {
+        "titulo": "O Demolidor",
+        "ano": 2020,
+        "genero": "Ação",
+        "temporadas": 3,
+        "imagem": "img/demolidor.jpg"
+    },
+        {
+        "titulo": "The Walking Dead",
+        "ano": 2012,
+        "genero": "Suspense",
+        "temporadas": 11,
+        "imagem": "img/thewalkingdead.jpg"
+    },
+        {
+        "titulo": "Dexter",
+        "ano": 2003,
+        "genero": "Suspense",
+        "temporadas": 13,
+        "imagem": "img/dexter.jpg"
+    }
+]
